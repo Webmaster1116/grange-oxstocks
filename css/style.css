@@ -702,6 +702,9 @@ footer ul {
   .main-content {
     font-size: 50px;
   }
+  .main-content span {
+    font-size: 65px;
+  }
 
   #about .about-thumb span {
     font-size: 40px;
@@ -713,7 +716,10 @@ footer ul {
     margin-left: -50px;
   }
   #product {
-    height: 125vh;
+    height: 80vh;
+  }
+  #product .about-thumb img {
+    height: 350px;
   }
   .why-grid img {
     width: 100%;
@@ -726,6 +732,12 @@ footer ul {
   }
   .subscribe-button {
     padding: 13px 20px;
+  }
+  .footer-menu {
+    margin: 5em 9em 0;
+  }
+  .map img {
+    width: 100%;
   }
 }
 
